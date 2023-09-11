@@ -11,7 +11,7 @@
   width: 501.63px;
   height: 1024px;
 }
-.log-in {
+.log-in {  /* log in text at top */
   position: absolute;
   top: 35.19px;
   left: 377.46px;
@@ -23,7 +23,7 @@
   position: relative;
   font-weight: 500;
 }
-.email-wrapper {
+.email-wrapper { /* email frame */
   position: absolute;
   top: -23.99px;
   left: 25.59px;
@@ -35,7 +35,7 @@
   align-items: center;
   justify-content: flex-start;
 }
-.input2 {
+.input2 { /* input field for email */
   position: absolute;
   top: 243.91px;
   left: 231.92px;
@@ -45,7 +45,7 @@
   width: 404.65px;
   height: 68.78px;
 }
-.password-wrapper {
+.password-wrapper { /* password frame */
   position: absolute;
   top: -15.99px;
   left: 25.59px;
@@ -56,7 +56,7 @@
   align-items: center;
   justify-content: center;
 }
-.input1 {
+.input1 { /* input field for password */
   position: absolute;
   top: 464.63px;
   left: 231.92px;
@@ -66,7 +66,7 @@
   width: 404.65px;
   height: 68.78px;
 }
-.log-in1 {
+.log-in1 { /* log in text of button */
   position: relative;
   letter-spacing: 0.01em;
   font-weight: 600;
@@ -75,7 +75,7 @@
   height: 23.19px;
   flex-shrink: 0;
 }
-.login-button {
+.login-button { /* login button */
   position: absolute;
   top: 733.34px;
   left: 377.46px;
@@ -92,7 +92,7 @@
   font-size: 19.19px;
   color: var(--color-white);
 }
-.panel-right {
+.panel-right { /* right-half of page */
   position: absolute;
   top: 0;
   left: 383.86px;
@@ -122,7 +122,7 @@
   height: 34.39px;
 }
 .n-removebg-preview-2-icon,
-.removal-2-icon {
+.removal-2-icon { /* 3d icon of page */
   position: absolute;
   top: 131.22px;
   left: 0.19px;
@@ -130,13 +130,13 @@
   height: 519.75px;
   object-fit: cover;
 }
-.n-removebg-preview-2-icon {
+.n-removebg-preview-2-icon { /* upes logo icon */
   top: -0.08px;
   left: 7.2px;
   width: 48.07px;
   height: 62.45px;
 }
-.panel-left {
+.panel-left { /* left-half of page */
   position: absolute;
   top: 38.39px;
   left: 28.79px;
@@ -150,7 +150,7 @@
   overflow: hidden;
   transform-origin: 0 0;
 }
-.desktop-4 {
+.desktop-4 { /* inner frame of page */
   position: absolute;
   top: calc(50% - 409.37px);
   left: calc(50% - 574.22px);
@@ -161,7 +161,7 @@
   height: 818.9px;
   transform: rotate(-0.02deg);
 }
-.desktop-5 {
+.desktop-5 { /* outer frame of page */
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.33)), #433a40;
   width: 100%;
