@@ -16,8 +16,7 @@
   top: 35.19px;
   left: 377.46px;
   font-size: 38.39px;
-  color: var(--color-lightsalmon-100);
-  -webkit-text-stroke: 2.4px #000;
+  color: #ff7f39;
 }
 .email {
   position: relative;
@@ -27,7 +26,7 @@
   position: absolute;
   top: -23.99px;
   left: 25.59px;
-  background-color: var(--color-white);
+  background-color: rgb(242, 234, 219);
   width: 77.57px;
   height: 48.78px;
   display: flex;
@@ -39,7 +38,7 @@
   position: absolute;
   top: 243.91px;
   left: 231.92px;
-  border-radius: var(--br-xs-2);
+  border-radius: 60px;
   border: 1.6px solid var(--color-black);
   box-sizing: border-box;
   width: 404.65px;
@@ -49,7 +48,7 @@
   position: absolute;
   top: -15.99px;
   left: 25.59px;
-  background-color: var(--color-white);
+  background-color: rgb(242, 234, 219);
   width: 136.75px;
   display: flex;
   flex-direction: row;
@@ -60,7 +59,7 @@
   position: absolute;
   top: 464.63px;
   left: 231.92px;
-  border-radius: var(--br-xs-2);
+  border-radius: 60px;
   border: 1.6px solid var(--color-black);
   box-sizing: border-box;
   width: 404.65px;
@@ -73,14 +72,14 @@
   display: inline-block;
   width: 59.18px;
   height: 23.19px;
-  flex-shrink: 0;
+  flex-shrink: 0; 
 }
 .login-button { /* login button */
   position: absolute;
   top: 733.34px;
   left: 377.46px;
   border-radius: 23.19px;
-  background-color: #fc9e6a;
+  background-color: #ff7f39;
   width: 139.95px;
   height: 37.59px;
   display: flex;
@@ -96,8 +95,8 @@
   position: absolute;
   top: 0;
   left: 383.86px;
-  border-radius: 31.99px 0 0 31.99px;
-  background-color: var(--color-white);
+  border-radius: 30px 0 0 30px;
+  background-color: rgb(242, 234, 219);
   width: 767.72px;
   height: 818.9px;
   overflow: hidden;
@@ -154,7 +153,7 @@
   position: absolute;
   top: calc(50% - 409.37px);
   left: calc(50% - 574.22px);
-  border-radius: 27.99px;
+  border-radius: 30px;
   background-color: var(--color-darkslategray-200);
   box-shadow: 0 5.543505668640137px 33.26px rgba(0, 0, 0, 0.5);
   width: 1149.99px;
